@@ -1,5 +1,5 @@
 **Nome**: Matheus Duarte Diniz de Morais \
-**Linkedin**: https://www.linkedin.com/in/matheus-duarte-diniz-de-morais-94b25121a/ \
+**Linkedin**: https://www.linkedin.com/in/matheus-duarte-diniz-de-morais-94b25121a/ 
 
 **Captura dos testes:**
 
